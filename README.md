@@ -1,7 +1,7 @@
 
 ## 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Preview](https://github.com/garciakim/01.Vaporwave/blob/main/img/screenshot.png)
 
 
 # Vaporwave Quotes
